@@ -1,0 +1,31 @@
+.card-libraries-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem; /* más espacio entre cards */
+  justify-content: center;
+  padding: 2rem;
+}
+
+.library-card {
+  width: 12rem;
+  height: 12rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+  border: none;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.library-card:hover {
+  transform: scale(1.03); 
+}
+.library-card-img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin: 1rem auto 0;
+}

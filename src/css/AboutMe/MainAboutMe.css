@@ -1,0 +1,14 @@
+.about {
+  text-align: center;
+  justify-content: center;
+}
+
+
+.dark .about {
+  color: #000000;
+}
+
+
+.light .about {
+  color: #E6E6FA;
+}

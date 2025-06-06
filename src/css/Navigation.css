@@ -1,0 +1,52 @@
+.custom-navbar {
+  background-color: #000 !important;
+  padding: 1.5rem 0;
+}
+
+.brand-name {
+  color: #f9c6d4;
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-right: 2rem;
+  text-decoration: none;
+}
+
+.custom-link {
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+
+.custom-link:hover {
+  color: #fff !important;
+  background-color: #f9c6d4;
+  border-radius: 8px;
+}
+
+.navbar-nav {
+  align-items: center;
+}
+
+.navigation.dark {
+  background-color: #000;
+  color: #f9c6d4;
+}
+
+.navigation.light {
+  background-color: #f9c6d4;
+  color: #000;
+}
+
+@media (max-width: 768px) {
+  .custom-link {
+    font-size: 1rem;
+    text-align: center;
+    display: block;
+    padding: 1rem 0;
+  }
+}
+

@@ -1,0 +1,23 @@
+.App.dark{
+    background-color: rgb(253, 231, 250);
+}
+.App.light{
+    background-color: rgb(0, 0, 0);
+}
+
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+}
+

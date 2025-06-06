@@ -1,0 +1,114 @@
+{
+    "Proyecto":[
+        {
+            "id": 1,
+            "nombre":"Proyecto 1",
+            "descripcion":"Este es mi primer proyecto.",
+            "link":""
+        },
+        {
+            "id": 2,
+            "nombre":"Proyecto ",
+            "descripcion":"Este es mi 2do proyecto.",
+            "link":""
+        },
+        {
+            "id": 3,
+            "nombre":"Proyecto 3",
+            "descripcion":"Este es mi 3er proyecto.",
+            "link":""
+        }
+    ],
+
+    "Lenguajes": [
+        {
+            "id": 1,
+            "nombre": "Python",
+            "imagen": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png"
+       },
+       {
+            "id": 2,
+            "nombre": "JavaScript",
+            "imagen": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
+       },
+       {
+            "id": 3,
+            "nombre": "C#",
+            "imagen": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png"
+       },
+       {
+            "id": 4,
+            "nombre": "HTML",
+            "imagen": "https://cdn-icons-png.flaticon.com/512/5968/5968267.png"
+       },
+       {
+            "id": 5,
+            "nombre": "CSS",
+            "imagen": "https://cdn-icons-png.flaticon.com/512/5968/5968242.png"
+       }
+],
+
+          "Libraries": [
+        {
+          "id": 1,
+          "nombre": "React",
+          "imagen": "https://cdn-icons-png.flaticon.com/512/1126/1126012.png"
+        },
+        {
+          "id": 2,
+          "nombre": "Node.js",
+          "imagen": "https://cdn-icons-png.flaticon.com/512/919/919825.png"
+        },
+        {
+          "id": 3,
+          "nombre": "Bootstrap",
+          "imagen": "https://cdn-icons-png.flaticon.com/512/5968/5968672.png"
+        },
+        {
+          "id": 4,
+          "nombre": "React-Bootstrap",
+          "imagen": "https://cdn-icons-png.flaticon.com/512/5968/5968672.png"
+        }
+      ]
+,
+            "DataBases": [
+          {
+            "id": 1,
+            "nombre": "MySQL",
+            "imagen": "https://cdn-icons-png.flaticon.com/512/5968/5968363.png"
+          },
+          {
+            "id": 2,
+            "nombre": "MongoDB",
+            "imagen": "https://cdn-icons-png.flaticon.com/512/919/919836.png"
+          }
+        ],
+
+   "Contacto": [
+  {
+    "id": 1,
+    "nombre": "LinkedIn",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+    "link": "aquiva la url"
+  },
+  {
+    "id": 2,
+    "nombre": "Instagram",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+    "link": "aquiva la url"
+  },
+  {
+    "id": 3,
+    "nombre": "WhatsApp",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
+    "link": "aquiva la url"
+  },
+  {
+    "id": 4,
+    "nombre": "Facebook",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
+    "link": "aquiva la url"
+  }
+]
+
+}

@@ -1,0 +1,33 @@
+
+.contenedor {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 2rem;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.texto {
+  flex: 1;
+  min-width: 300px;
+}
+
+.imagen {
+  flex: 1;
+  min-width: 300px;
+}
+
+.imagen img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+}
+
+.texto.light{
+  color:rgb(255, 255, 255)
+}
+.texto.dark{
+  color:rgb(0, 0, 0)
+}
