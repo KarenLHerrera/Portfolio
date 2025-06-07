@@ -14,7 +14,7 @@ const CardContact = () => {
             src={item.imagen} 
             className="library-card-img" />
           <Card.Body>
-            <Button variant="dark" >Contact Me</Button>
+             <Button variant="dark" onClick={() => window.open(item.link, '_blank')}>Contáctame</Button>
           </Card.Body>
         </Card>
       ))}

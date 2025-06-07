@@ -89,25 +89,31 @@
     "id": 1,
     "nombre": "LinkedIn",
     "imagen": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
-    "link": "aquiva la url"
+    "link": "https://www.linkedin.com/in/yourprofile"
   },
   {
     "id": 2,
     "nombre": "Instagram",
     "imagen": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
-    "link": "aquiva la url"
+    "link": "https://www.instagram.com/karenherrera.bd?igsh=MW9ncGgxNWRqeDhoNg=="
   },
   {
     "id": 3,
     "nombre": "WhatsApp",
     "imagen": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
-    "link": "aquiva la url"
+    "link": "https://api.whatsapp.com/send?phone=543813541077"
   },
   {
     "id": 4,
     "nombre": "Facebook",
     "imagen": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
-    "link": "aquiva la url"
+    "link": "https://www.facebook.com/yourprofile"
+  },
+  {
+    "id": 5,
+    "nombre": "GitHub",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/733/733553.png",
+    "link": "https://github.com/KarenLHerrera"
   }
 ]
 

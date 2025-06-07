@@ -10,11 +10,13 @@ import {about, projects, contact,home} from './routes/Path'
 import useStore from './store/useStore';
 import Footer from './components/Footer'
 
+
 function App() {
   
  const darkMode = useStore((state) => state.darkMode);
   return (
     <div className={`app ${darkMode ? 'App dark' : 'App light'}`}>
+ 
       <BrowserRouter>
         <div className="main-content">
           <Routes>
