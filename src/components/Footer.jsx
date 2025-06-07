@@ -27,7 +27,7 @@ const Footer = () => {
         <FaFacebook />
       </a>
       <a
-        href="https://www.linkedin.com/in/yourprofile"
+        href="https://www.linkedin.com/in/karenherreradev"
         target="_blank"
         rel="noopener noreferrer"
         title="LinkedIn"
